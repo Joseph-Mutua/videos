@@ -1,0 +1,7 @@
+import React, { Component } from 'react';
+
+const VideoItem = () => {
+    return (  <div>Video Item</div>);
+}
+ 
+export default VideoItem;
